@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name micro-private)(type Legacy)(uri /home/rk/projects/rk-micro/micro-private.lib)(options "")(descr ""))
+)
